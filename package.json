@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
+    "export": "next export",
     "start": "next start -H 0.0.0.0 -p $PORT",
     "start-localhost": "next start",
     "lint": "npx next lint"
